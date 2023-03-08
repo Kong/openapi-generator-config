@@ -1,0 +1,18 @@
+{
+  "spaces": 2,
+  "generator-cli": {
+    "version": "6.2.1",
+    "generators": {
+      "client": {
+        "generatorName": "typescript-axios",
+        "output": ".",
+        "glob": "openapi.yaml",
+        "templateDir": "templates-js",
+        "additionalProperties": {
+          "modelPropertyNaming": "original",
+          "useSingleRequestParameter": "true"
+        }
+      }
+    }
+  }
+}
