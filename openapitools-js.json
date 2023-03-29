@@ -5,7 +5,7 @@
     "generators": {
       "client": {
         "generatorName": "typescript-axios",
-        "output": ".",
+        "output": "./src",
         "glob": "openapi.yaml",
         "templateDir": "templates-js",
         "additionalProperties": {
