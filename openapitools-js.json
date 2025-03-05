@@ -14,7 +14,7 @@
         },
         "typeMappings": {
           "set": "Array"
-        },
+        }
       }
     }
   }
