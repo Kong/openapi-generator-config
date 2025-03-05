@@ -11,10 +11,7 @@
         "additionalProperties": {
           "modelPropertyNaming": "original",
           "useSingleRequestParameter": "true"
-        },
-        "typeMappings": {
-          "set": "Array"
-        },
+        }
       }
     }
   }
