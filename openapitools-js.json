@@ -1,7 +1,7 @@
 {
   "spaces": 2,
   "generator-cli": {
-    "version": "6.2.1",
+    "version": "7.2.0",
     "generators": {
       "client": {
         "generatorName": "typescript-axios",
