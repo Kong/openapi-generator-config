@@ -10,7 +10,10 @@
         "templateDir": "templates-js",
         "additionalProperties": {
           "modelPropertyNaming": "original",
-          "useSingleRequestParameter": "true"
+          "useSingleRequestParameter": "true",
+          "withSeparateModelsAndApi": "true",
+          "apiPackage": "api",
+          "modelPackage": "models"
         },
         "typeMappings": {
           "set": "Array"
